@@ -1,0 +1,13 @@
+These run in the terminal. BY typing the node and press enter.
+If we create a variable and varname.tab tab by pressing this we can get the functions that can be applied to the variable
+
+REPL Commands in Java script
+>.exit is same as the ctrl d in keyboard. it ends the session
+>.save-we can save the session by using the .save
+ex-.save name
+we can declare the variables in in a session .if we want to use use them in another session we can save the session and by running 
+a syntax--   cat name
+we can get all the data of the name session
+>.load - to load the data of the saved session to the current session
+ex- .load sessname
+> cat .node_repl_history -all the history will be stored in repl .we can check by using this command
